@@ -1,4 +1,1 @@
-# Demo
-
-Hello World!
-Get into GitHub
+Hello World. Get into GitHub!
